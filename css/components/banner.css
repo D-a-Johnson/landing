@@ -1,0 +1,32 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 1000px;
+  padding: 0px 75px;
+  margin-bottom: -400px;
+}
+
+.btn-primary {
+  margin-left: 25px;
+  padding: 10px;
+  color: #9d2933;
+  border: 1px solid #9d2933;
+  border-radius: 50px;
+  font-weight: bolder;
+  opacity: 0.6;
+  background: #D3D3D3;
+  transition: 0.3s ease;
+}
+
+.btn-primary:hover {
+  opacity: 1;
+    text-decoration: none;
+    color: #D3D3D3;
+    background: #9d2933;
+    border: 1px solid #696969;
+}
+
+.container-banner p {
+  font-size: 20px;
+}

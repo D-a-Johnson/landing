@@ -1,0 +1,32 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,500,700,900&subset=japanese');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url("components/cards.css");
+@import url("components/banner.css");
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1 {
+  font-size: 175px;
+  margin-top: -25px;
+  margin-bottom: 0px;
+  color: #9d2933;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
